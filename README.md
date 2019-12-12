@@ -1,6 +1,6 @@
 # Primary Children's Hospital Patient Stories Map
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0992035a-0582-41d4-a1b3-4a6ea39df545/deploy-status)](https://app.netlify.com/sites/primary-childrens-stories/deploys)
 
 An interactive map showing some of Primary Children's Hospital's patient stories
 
