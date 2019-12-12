@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
@@ -35,7 +34,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        className="w-full bg-white"
         role="navigation"
         aria-label="main-navigation"
       >
@@ -57,37 +56,23 @@ const Navbar = class extends React.Component {
           </div>
           <div
             id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
+            className={`flex flex-wrap justify-between ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
+            <Link className="text-blue-500" to="/about">
+              About
               </Link>
-              <Link className="navbar-item" to="/products">
-                Products
+            <Link className="text-blue-500" to="/products">
+              Products
               </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
+            <Link className="text-blue-500" to="/blog">
+              Blog
               </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
+            <Link className="text-blue-500" to="/contact">
+              Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
+            <Link className="text-blue-500" to="/contact/examples">
+              Form Examples
               </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/michaelbonner/primary-childrens-story-map"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
-              </a>
-            </div>
           </div>
         </div>
       </nav>
