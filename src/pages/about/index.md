@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Primary Children's Hospital
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## Helping Kids Be Their Best
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Primary Children’s Hospital ranks among the best children’s hospitals in the United States. Located in Salt Lake City, Utah, our hospital is focused on providing the best care for more than 1 million children living in a 400,000 square-mile service area.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Our 289-bed facility is a Level I pediatric trauma center and cares for children with complex illness and injury, including organ transplants and complex birth defects. Our hospital is part of Intermountain Healthcare, a not-for-profit health care system, and the pediatric teaching hospital for the University of Utah, School of Medicine.
+
+
+
+For more than 95 years, we have been helping children, families, and communities across the western United States. Our simple philosophy of The Child First and Always, informs every decision we make, and how we care for patients and families.
