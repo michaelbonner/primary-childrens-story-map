@@ -1,25 +1,26 @@
-# Primary Children's Hospital Patient Stories Map
+![Repo image](public/og-image.jpg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0992035a-0582-41d4-a1b3-4a6ea39df545/deploy-status)](https://app.netlify.com/sites/primary-childrens-stories/deploys)
+# Here, Kids Win Public Website
 
-An interactive map showing some of Primary Children's Hospital's patient stories
+## Running locally in development mode
 
-### Access Locally
+To get started, just clone the repository and run `npm install && npm run dev`:
 
-Pulldown a local copy of this Github repository
+    git clone git@github.com:FaktoryUtah/primary-childrens-stories.git
+    npm install
+    npm run dev
 
-```
-$ git clone https://github.com/michaelbonner/primary-childrens-story-map.git
-$ cd primary-childrens-story-map
-$ npm i
-$ netlify dev # or ntl dev
-```
+Note: If you are running on Windows run install --noptional flag (i.e. `npm install --no-optional`) which will skip installing fsevents.
 
-This uses [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
+## Building and deploying in production
 
-To test the CMS locally, you'll need run a production build of the site:
+If you wanted to run this site in production, you should install modules then build the site with `npm run build` and run it with `npm start`:
 
-```
-$ npm run build
-$ netlify dev # or ntl dev
-```
+    npm install
+    npm run build
+    npm start
+
+## Authors
+
+- Design: [Faktory, Inc.](http://www.faktoryshowroom.com/)
+- Development: [Michael Bonner](https://bootpackdigital.com/)

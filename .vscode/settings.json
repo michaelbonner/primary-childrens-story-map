@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "childrens",
+    "croc",
+    "enablejsapi",
+    "faktory",
+    "fsevents",
+    "fullhuman",
+    "inlines",
+    "intermountain",
+    "modestbranding",
+    "nodownload",
+    "noptional",
+    "purgecss",
+    "showinfo",
+    "svgid",
+    "toastify",
+    "youtu",
+    "youtube"
+  ],
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#badaff",
+    "titleBar.inactiveForeground": "#badaffcc",
+    "titleBar.activeBackground": "#377ED1",
+    "titleBar.inactiveBackground": "#377ED1CC"
+  }
+}

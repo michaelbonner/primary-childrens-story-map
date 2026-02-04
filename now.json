@@ -1,0 +1,134 @@
+{
+    "env": {
+        "CONTENTFUL_SPACE_ID": "@contentful_space_id",
+        "CONTENTFUL_ACCESS_TOKEN": "@contentful_access_token"
+    },
+    "build": {
+        "env": {
+            "CONTENTFUL_SPACE_ID": "@contentful_space_id",
+            "CONTENTFUL_ACCESS_TOKEN": "@contentful_access_token"
+        }
+    },
+    "redirects": [
+        {
+            "source": "/story/1v6OzBisTmnS1xs4A3fJ5W",
+            "destination": "/matthews-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/7mBWNNWdlacSqbnfxuPipf",
+            "destination": "/maddy",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/7lv2Zwhh44wG7ICEuB27Em",
+            "destination": "/lexies-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/4FhIJLLZoyfvGrh1LRGbVu",
+            "destination": "/briennas-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/7hRuUjb8nin9hQXoIcnRtO",
+            "destination": "/steins-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/N0HJPNzoeIjVfBVsOAmJX",
+            "destination": "/eliza-and-rubys-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/5vcdrtsjRNMZaTdWk7pj3d",
+            "destination": "/becketts-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/2ZLAzhzF4hnUZY4XED5f5j",
+            "destination": "/rylyns-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/2neDcgTuy6DUZ8utlODMc9",
+            "destination": "/normas-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/5koXK6ctUpw9eqG4cCbCwX",
+            "destination": "/maxs-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/rjJ5wvG5n2hTUp6r6AZaK",
+            "destination": "/hailees-story",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/53mDZ0nIm9oXebjJXheKPK",
+            "destination": "/win-like-shelby",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/5pGWuWaFQqgAOBK8SZ07ie",
+            "destination": "/win-like-brooklyn",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/1FbLxV7ocUfFWLEii7PhgN",
+            "destination": "/win-like-parker",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/1DdsiHvPPQczJNBp1dNz4c",
+            "destination": "/win-like-elspeth",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/5xOiUKdBdxvyEuqI0RDPn",
+            "destination": "/win-like-branwen",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/5xrVUBK7dKI3KD30FQgT3e",
+            "destination": "/win-like-robert",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/3nBk38b9jeY8IAaGxqa9f0",
+            "destination": "/win-like-drake",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/31eL99CONagFkAgCADbM6U",
+            "destination": "/win-like-emersyn",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/DyJoBYNgk9InJocxXWMdl",
+            "destination": "/win-like-isaac",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/5KeEuSWjnVnftVpqaPc8RH",
+            "destination": "/win-like-hallie",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/4bRErWIxHxIvGVEEH7GTt5",
+            "destination": "/win-like-mitt",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/6Z4VpGbGeI4mwzvMZTElS0",
+            "destination": "/win-like-holly",
+            "statusCode": 301
+        },
+        {
+            "source": "/story/(.+)",
+            "destination": "/$1",
+            "statusCode": 301
+        }
+    ]
+}
